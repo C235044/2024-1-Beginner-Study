@@ -26,3 +26,5 @@
 >   git commit -m "docs: 개발입문스터디 과제 1주차"   
 >   git push origin main   
 
+<https://github.com/C235044/C235044>
+
