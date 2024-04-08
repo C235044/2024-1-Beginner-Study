@@ -1,9 +1,9 @@
-## Weekly I Learned 2
+## Weekly I Learned 3
 
 2024 GDSC 개발 입문 스터디에서 배운 것(3주차)   
 
 > 1. Git log   
->   commit 기록을 최신 순으로 확   
+>   commit 기록을 최신 순으로 확인   
 >   --oneline 옵션 사용하면 각 커밋 한 줄에 요약
 >   commit ID를 이용해서 commit 식별(SHA-3 해시 함수를 사용)    
 >   Head: 현재 작업 중인 위치, 현재 작업중인 브랜치의 가장 최근 commit, 새로운 commit이 생기면 Head도 변경
