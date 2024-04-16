@@ -16,7 +16,7 @@
     
 > 3. github flow    
 >   종류: main, feature    
->   main: 항상 배포 가능 상태로 유지, 병합 전 충준한 test 필요    
+>   main: 항상 배포 가능 상태로 유지, 병합 전 충분한 test 필요    
 >   feature: main에서 분기, 다시 main으로 병합, 코드 리뷰 중요, 목적을 이름에 명시
 
 > 4. 좋은 개발자의 태도   
