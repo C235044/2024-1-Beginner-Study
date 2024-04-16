@@ -14,7 +14,7 @@
 >   release: 배포 준비를 위한 브랜치, 버그 수정, develop에서 분기 후 main으로 병합
 >   hotfix: 배포 환경에서 즉각적 수정 필요시 사용, main에서 분기, main, develop에 병합
     
-> 3. github flow
+> 3. github flow    
 >   종류: main, feature    
 >   main: 항상 배포 가능 상태로 유지, 병합 전 충준한 test 필요    
 >   feature: main에서 분기, 다시 main으로 병합, 코드 리뷰 중요, 목적을 이름에 명시
